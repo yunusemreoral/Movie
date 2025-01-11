@@ -9,6 +9,7 @@
 <li>HTML5</li>
 <li>CSS</li>
 <li>JS</li>
+<li>API</li>
 
 # Ekran Görüntüsü 🎥
 <img src="movie.gif" width="auto">      
