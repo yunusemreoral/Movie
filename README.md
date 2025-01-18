@@ -1,8 +1,7 @@
-# Movie 🎬
+# Github Profil Kart  🔍
 
-<li>Bu proje HTML5,CSS,JS,API ile oluşturulmuş Film site arayüzü içerir.</li>
-<li>Filmlerin içeriği,puan ortalaması ile birlikte arama,listeleme,filtreleme, özelliklerini barındırır.</li>
-<li>Ayrıca duyarlı tasarımı ile telefon,tablet,bilgisayar üzerinden kolay erişim olanağı sunar.</li>
+<li>Bu proje HTML5,CSS,JS,API,AXİOS ile oluşturulmuş Github Profil Kart site arayüzü içerir.</li>
+<li>API'den çekilen veriler ile Github profil sorgusu,profil detayı,reposite,bio hakkında bilgi sunar. </li>
 
 # Kullanılan Teknolojiler 🎨
 
@@ -10,9 +9,10 @@
 <li>CSS</li>
 <li>JS</li>
 <li>API</li>
+<li>AXİOS</li>
 
 # Ekran Görüntüsü 🎥
-<img src="movie.gif" width="auto">      
+<img src="githubprofil" width="auto">      
 
 # İletişim 📩
 yunusemreoral@hotmail.com.tr
