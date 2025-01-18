@@ -12,7 +12,7 @@
 <li>API</li>
 
 # Ekran Görüntüsü 🎥
-<img src="movie" width="auto">      
+<img src="movie.gif" width="auto">      
 
 # İletişim 📩
 yunusemreoral@hotmail.com.tr
